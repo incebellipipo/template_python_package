@@ -54,6 +54,7 @@ The head of your files _at least_ should include the following information.
 
 If, for example, [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) is chosen as the license, the header should look like this.
 
+<dl><dd><dl><dd><dl><dd><dl><dd>
 <details style="margin-left: 4em">
 <summary>GPLv3 License Header for hypothetical project</summary>
 
@@ -148,7 +149,7 @@ If, for example, [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) is chosen
 # Copyright (C) 2023, <discuss it with your supervisor>, Trondheim
 ```
 </details>
-
+</dd></dl></dd></dl></dd></dl></dd></dl>
 
 :warning: Do not forget the include the `LICENSE.txt` file in your repository.
 
