@@ -33,6 +33,8 @@ Please refer to NTNU wiki pages for more information.
 
 </details>
 
+<hr/>
+
 <details>
 <summary>Licensing</summary>
 
@@ -148,13 +150,13 @@ If, for example, [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) is chosen
 </details>
 
 
-
-
 :warning: Do not forget the include the `LICENSE.txt` file in your repository.
 
 :warning: I can not stress this more. **Please** read the [NTNU guidelines](https://i.ntnu.no/wiki/-/wiki/English/Open+source) for more information, **Please** refer to your supervisor and the innovation office.
 
 </details>
+
+<hr/>
 
 <details>
 <summary>Code Quality</summary>
@@ -207,6 +209,7 @@ You may use the external libraries as you please but there are some important th
 
 </details>
 
+<hr/>
 
 <details>
 <summary>Documentation</summary>
@@ -322,6 +325,8 @@ python -m http.server 8080
 
 </details>
 
+<hr/>
+
 <details>
 <summary>Versioning</summary>
 
@@ -347,6 +352,8 @@ This is an important subject to prevent you from accidentally sharing your priva
 
 </details>
 
+<hr/>
+
 <details>
 <summary>How to use this template</summary>
 
@@ -364,6 +371,8 @@ This is an important subject to prevent you from accidentally sharing your priva
 4. Remove this `starthere.md` document since it does not belong to your package.
 
 </details>
+
+<hr/>
 
 <details>
 <summary>Help</summary>
