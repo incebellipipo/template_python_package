@@ -153,7 +153,7 @@ If, for example, [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) is chosen
 
 :warning: Do not forget the include the `LICENSE.txt` file in your repository.
 
-:warning: I can not stress this more. **Please** read the [NTNU guidelines](https://i.ntnu.no/wiki/-/wiki/English/Open+source) for more information, **Please** refer to your supervisor and the innovation office.
+:warning: I can not stress this enough. **Please** read the [NTNU guidelines](https://i.ntnu.no/wiki/-/wiki/English/Open+source) for more information, **Please** refer to your supervisor and the innovation office.
 
 </details>
 
