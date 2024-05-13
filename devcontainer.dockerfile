@@ -1,9 +1,7 @@
 FROM incebellipipo/devcontainer:jammy
 
 # Copy python package dependencies
-COPY requirements.txt /tmp/requirements.txt
-COPY requirements.examples.txt /tmp/requirements.examples.txt
+COPY requirements* /tmp/
 
 # Install python package dependencies
-RUN pip install -r /tmp/requirements.txt
-RUN pip install -r /tmp/requirements.examples.txt
+RUN pip install `find /tmp -maxdepth 1 -name 're*' -printf '-r %p '`
